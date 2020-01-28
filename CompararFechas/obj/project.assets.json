@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\malco\\Desktop\\Cs\\Consola\\CompararFechas.csproj",
+      "projectUniqueName": "C:\\Users\\malco\\Desktop\\Cs\\CompararFechas\\CompararFechas.csproj",
       "projectName": "CompararFechas",
-      "projectPath": "C:\\Users\\malco\\Desktop\\Cs\\Consola\\CompararFechas.csproj",
+      "projectPath": "C:\\Users\\malco\\Desktop\\Cs\\CompararFechas\\CompararFechas.csproj",
       "packagesPath": "C:\\Users\\malco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\malco\\Desktop\\Cs\\Consola\\obj\\",
+      "outputPath": "C:\\Users\\malco\\Desktop\\Cs\\CompararFechas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\malco\\AppData\\Roaming\\NuGet\\NuGet.Config",

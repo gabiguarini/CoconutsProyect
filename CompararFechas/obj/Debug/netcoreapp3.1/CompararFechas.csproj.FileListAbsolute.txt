@@ -20,3 +20,14 @@ C:\Users\malco\Desktop\Cs\Consola\obj\Debug\netcoreapp3.1\CompararFechas.Assembl
 C:\Users\malco\Desktop\Cs\Consola\obj\Debug\netcoreapp3.1\CompararFechas.AssemblyInfo.cs
 C:\Users\malco\Desktop\Cs\Consola\obj\Debug\netcoreapp3.1\CompararFechas.dll
 C:\Users\malco\Desktop\Cs\Consola\obj\Debug\netcoreapp3.1\CompararFechas.pdb
+C:\Users\malco\Desktop\Cs\CompararFechas\bin\Debug\netcoreapp3.1\CompararFechas.exe
+C:\Users\malco\Desktop\Cs\CompararFechas\bin\Debug\netcoreapp3.1\CompararFechas.deps.json
+C:\Users\malco\Desktop\Cs\CompararFechas\bin\Debug\netcoreapp3.1\CompararFechas.runtimeconfig.json
+C:\Users\malco\Desktop\Cs\CompararFechas\bin\Debug\netcoreapp3.1\CompararFechas.runtimeconfig.dev.json
+C:\Users\malco\Desktop\Cs\CompararFechas\bin\Debug\netcoreapp3.1\CompararFechas.dll
+C:\Users\malco\Desktop\Cs\CompararFechas\bin\Debug\netcoreapp3.1\CompararFechas.pdb
+C:\Users\malco\Desktop\Cs\CompararFechas\obj\Debug\netcoreapp3.1\CompararFechas.csprojAssemblyReference.cache
+C:\Users\malco\Desktop\Cs\CompararFechas\obj\Debug\netcoreapp3.1\CompararFechas.AssemblyInfoInputs.cache
+C:\Users\malco\Desktop\Cs\CompararFechas\obj\Debug\netcoreapp3.1\CompararFechas.AssemblyInfo.cs
+C:\Users\malco\Desktop\Cs\CompararFechas\obj\Debug\netcoreapp3.1\CompararFechas.dll
+C:\Users\malco\Desktop\Cs\CompararFechas\obj\Debug\netcoreapp3.1\CompararFechas.pdb

@@ -1,0 +1,11 @@
+C:\Users\malco\Desktop\Cs\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.exe
+C:\Users\malco\Desktop\Cs\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.deps.json
+C:\Users\malco\Desktop\Cs\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.runtimeconfig.json
+C:\Users\malco\Desktop\Cs\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.runtimeconfig.dev.json
+C:\Users\malco\Desktop\Cs\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.dll
+C:\Users\malco\Desktop\Cs\Ruleta\bin\Debug\netcoreapp3.1\Ruleta.pdb
+C:\Users\malco\Desktop\Cs\Ruleta\obj\Debug\netcoreapp3.1\Ruleta.csprojAssemblyReference.cache
+C:\Users\malco\Desktop\Cs\Ruleta\obj\Debug\netcoreapp3.1\Ruleta.AssemblyInfoInputs.cache
+C:\Users\malco\Desktop\Cs\Ruleta\obj\Debug\netcoreapp3.1\Ruleta.AssemblyInfo.cs
+C:\Users\malco\Desktop\Cs\Ruleta\obj\Debug\netcoreapp3.1\Ruleta.dll
+C:\Users\malco\Desktop\Cs\Ruleta\obj\Debug\netcoreapp3.1\Ruleta.pdb
