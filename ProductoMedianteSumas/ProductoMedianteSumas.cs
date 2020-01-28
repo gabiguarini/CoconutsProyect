@@ -41,9 +41,13 @@ namespace ProductoMedianteSumas
             }
             //Tengo los valores validos, ahora calcular suma
         }
-        void calcular()
+        int Calcular(int valorUno, int valorDos)
         {
-            //sasd
+            if (numero == 1) 
+            { 
+                // nada
+            }
+            return (resultado);
         }
     }
 }
