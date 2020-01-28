@@ -1,0 +1,11 @@
+C:\Users\malco\Desktop\Cs\MultiplosDeTres\bin\Debug\netcoreapp3.1\MultiplosDeTres.exe
+C:\Users\malco\Desktop\Cs\MultiplosDeTres\bin\Debug\netcoreapp3.1\MultiplosDeTres.deps.json
+C:\Users\malco\Desktop\Cs\MultiplosDeTres\bin\Debug\netcoreapp3.1\MultiplosDeTres.runtimeconfig.json
+C:\Users\malco\Desktop\Cs\MultiplosDeTres\bin\Debug\netcoreapp3.1\MultiplosDeTres.runtimeconfig.dev.json
+C:\Users\malco\Desktop\Cs\MultiplosDeTres\bin\Debug\netcoreapp3.1\MultiplosDeTres.dll
+C:\Users\malco\Desktop\Cs\MultiplosDeTres\bin\Debug\netcoreapp3.1\MultiplosDeTres.pdb
+C:\Users\malco\Desktop\Cs\MultiplosDeTres\obj\Debug\netcoreapp3.1\MultiplosDeTres.csprojAssemblyReference.cache
+C:\Users\malco\Desktop\Cs\MultiplosDeTres\obj\Debug\netcoreapp3.1\MultiplosDeTres.AssemblyInfoInputs.cache
+C:\Users\malco\Desktop\Cs\MultiplosDeTres\obj\Debug\netcoreapp3.1\MultiplosDeTres.AssemblyInfo.cs
+C:\Users\malco\Desktop\Cs\MultiplosDeTres\obj\Debug\netcoreapp3.1\MultiplosDeTres.dll
+C:\Users\malco\Desktop\Cs\MultiplosDeTres\obj\Debug\netcoreapp3.1\MultiplosDeTres.pdb
