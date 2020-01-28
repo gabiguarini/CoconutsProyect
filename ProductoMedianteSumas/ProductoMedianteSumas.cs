@@ -39,16 +39,15 @@ namespace ProductoMedianteSumas
                 }
                 _ = (valorValidoUno == 1 && valorValidoDos == 1) ? NumerosDispares++ : NumerosDispares = 0;
             }
-            resultado = Calcular(valorUno, valorDos, resultado);
-            Console.WriteLine("\n El resultado final es: {0}", resultado);
+            Calcular(valorUno, valorDos, resultado);
         }
-        static int Calcular(int valorUno, int valorDos, int resultado)
-        {          
-            if (valorDos == 0)
-            {
-                return (resultado);                
-            }
-            else
+        static void Calcular(int valorUno, int valorDos, int resultado)
+        {
+            //if (valorDos == 0)
+            //{
+            //    return (resultado);                
+            //}
+            if (valorDos > 1)
             {
                 if (resultado == 0)
                 {
@@ -57,16 +56,16 @@ namespace ProductoMedianteSumas
                     valorDos--;
                     Calcular(valorUno, valorDos, resultado);
                 }
-                else 
+                else
                 {
-                    Console.WriteLine($"\n ~ {resultado} + {valorUno} = {resultado+valorUno} ");
-                    resultado += valorUno;                    
+                    Console.WriteLine($"\n ~ {resultado} + {valorUno} = {resultado + valorUno} ");
+                    resultado += valorUno;
                     valorDos--;
                     Calcular(valorUno, valorDos, resultado);
                 }
-                
+
             }
-            return (resultado);
+            else Console.WriteLine($"\n El resultado final es: {resultado}");
         }
     }
 }
