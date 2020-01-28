@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProductoMedianteSumas/1.0.0": {
+        "runtime": {
+          "ProductoMedianteSumas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductoMedianteSumas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

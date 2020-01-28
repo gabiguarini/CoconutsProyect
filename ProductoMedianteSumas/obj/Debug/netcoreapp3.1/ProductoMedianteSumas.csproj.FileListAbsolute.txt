@@ -1,0 +1,11 @@
+C:\Users\malco\Desktop\Cs\ProductoMedianteSumas\bin\Debug\netcoreapp3.1\ProductoMedianteSumas.exe
+C:\Users\malco\Desktop\Cs\ProductoMedianteSumas\bin\Debug\netcoreapp3.1\ProductoMedianteSumas.deps.json
+C:\Users\malco\Desktop\Cs\ProductoMedianteSumas\bin\Debug\netcoreapp3.1\ProductoMedianteSumas.runtimeconfig.json
+C:\Users\malco\Desktop\Cs\ProductoMedianteSumas\bin\Debug\netcoreapp3.1\ProductoMedianteSumas.runtimeconfig.dev.json
+C:\Users\malco\Desktop\Cs\ProductoMedianteSumas\bin\Debug\netcoreapp3.1\ProductoMedianteSumas.dll
+C:\Users\malco\Desktop\Cs\ProductoMedianteSumas\bin\Debug\netcoreapp3.1\ProductoMedianteSumas.pdb
+C:\Users\malco\Desktop\Cs\ProductoMedianteSumas\obj\Debug\netcoreapp3.1\ProductoMedianteSumas.csprojAssemblyReference.cache
+C:\Users\malco\Desktop\Cs\ProductoMedianteSumas\obj\Debug\netcoreapp3.1\ProductoMedianteSumas.AssemblyInfoInputs.cache
+C:\Users\malco\Desktop\Cs\ProductoMedianteSumas\obj\Debug\netcoreapp3.1\ProductoMedianteSumas.AssemblyInfo.cs
+C:\Users\malco\Desktop\Cs\ProductoMedianteSumas\obj\Debug\netcoreapp3.1\ProductoMedianteSumas.dll
+C:\Users\malco\Desktop\Cs\ProductoMedianteSumas\obj\Debug\netcoreapp3.1\ProductoMedianteSumas.pdb
