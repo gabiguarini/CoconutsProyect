@@ -1,6 +1,6 @@
 Web hecha con react, componentes constantes.
 
-![Captura Uno](1.png)
-![Captura Dos](2.png)
-![Captura Tres](3.png)
-![Captura Cuatro](4.png)
+![Diagram](1.png)
+![Diagram](2.png)
+![Diagram](3.png)
+![Diagram](4.png)
