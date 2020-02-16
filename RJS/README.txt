@@ -1,6 +1,6 @@
-*Web hecha con react, componentes constantes.
+Web hecha con react, componentes constantes.
 
-[Captura Uno](docs/1.png)
-[Captura Dos](docs/2.png)
-[Captura Tres](docs/3.png)
-[Captura Cuatro](docs/4.png)
+![Captura Uno](1.png)
+![Captura Dos](2.png)
+![Captura Tres](3.png)
+![Captura Cuatro](4.png)
