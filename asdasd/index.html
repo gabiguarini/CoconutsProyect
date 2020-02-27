@@ -9,8 +9,7 @@
 			  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
 			  crossorigin="anonymous"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="datepicker.min.css" rel="stylesheet" type="text/css">
-        <script src="datepicker.min.js"></script>
+    
 
         <!-- Include English language -->
         
@@ -19,12 +18,31 @@
   </head>
   <body>
         <div >    
-            <div class="form-group">
-              <label for="">ASD</label>
-              <input type="text" class="form-control" name="" id="ciudad"  placeholder="Posadas">
-              <p id="temperatura"></p>
-            </div>          
-            <button id="buscarDatos" type="button" class="btn btn-primary">Buscar</button>
+            <button id="angelici1" type="button" class="btn btn-primary">1</button>
+            <button id="angelici2" type="button" class="btn btn-primary">2</button>
+            <p id="parrafo">El parrafo</p>
+
+
+            <script >
+              const mostrarElemento = ()=> {
+                console.log(this)
+              }
+              document.getElementById("angelici1").addEventListener("click", mostrarElemento)
+              document.getElementById("angelici2").addEventListener("click", mostrarElemento)
+              document.getElementById("parrafo").addEventListener("click", mostrarElemento)
+
+              class Auto 
+              {
+                constructor(marca)
+                {
+                  this.marca = marca;
+                }
+              }
+              fitito = new Auto("Fiat");
+              chevy = new Auto("Chev");
+              console.log(fitito.marca);
+              console.log(chevy.marca);
+            </script>
         </div>
     
     <!-- Optional JavaScript -->
