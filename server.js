@@ -5,6 +5,7 @@ function iniciar() {
     function onRequest(request, response)
     {
         var pathname = url.parse(request.url).pathname;
+        console.log("Request a "+ pathname +" recibido");
         console.log("Request recibido");
         response.writeHead(200, {"Content-Type": "text/html"});
         response.write("Holis");
