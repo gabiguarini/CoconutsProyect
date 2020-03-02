@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\malco\\Desktop\\Cs\\Ruleta\\Ruleta.csproj": {}
+    "C:\\Users\\malco\\Desktop\\RJS\\Ruleta\\Ruleta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\malco\\Desktop\\Cs\\Ruleta\\Ruleta.csproj": {
+    "C:\\Users\\malco\\Desktop\\RJS\\Ruleta\\Ruleta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\malco\\Desktop\\Cs\\Ruleta\\Ruleta.csproj",
+        "projectUniqueName": "C:\\Users\\malco\\Desktop\\RJS\\Ruleta\\Ruleta.csproj",
         "projectName": "Ruleta",
-        "projectPath": "C:\\Users\\malco\\Desktop\\Cs\\Ruleta\\Ruleta.csproj",
+        "projectPath": "C:\\Users\\malco\\Desktop\\RJS\\Ruleta\\Ruleta.csproj",
         "packagesPath": "C:\\Users\\malco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\malco\\Desktop\\Cs\\Ruleta\\obj\\",
+        "outputPath": "C:\\Users\\malco\\Desktop\\RJS\\Ruleta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\malco\\AppData\\Roaming\\NuGet\\NuGet.Config",

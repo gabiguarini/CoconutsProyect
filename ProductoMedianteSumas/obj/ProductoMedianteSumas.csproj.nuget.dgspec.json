@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\malco\\Desktop\\Cs\\ProductoMedianteSumas\\ProductoMedianteSumas.csproj": {}
+    "C:\\Users\\malco\\Desktop\\RJS\\ProductoMedianteSumas\\ProductoMedianteSumas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\malco\\Desktop\\Cs\\ProductoMedianteSumas\\ProductoMedianteSumas.csproj": {
+    "C:\\Users\\malco\\Desktop\\RJS\\ProductoMedianteSumas\\ProductoMedianteSumas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\malco\\Desktop\\Cs\\ProductoMedianteSumas\\ProductoMedianteSumas.csproj",
+        "projectUniqueName": "C:\\Users\\malco\\Desktop\\RJS\\ProductoMedianteSumas\\ProductoMedianteSumas.csproj",
         "projectName": "ProductoMedianteSumas",
-        "projectPath": "C:\\Users\\malco\\Desktop\\Cs\\ProductoMedianteSumas\\ProductoMedianteSumas.csproj",
+        "projectPath": "C:\\Users\\malco\\Desktop\\RJS\\ProductoMedianteSumas\\ProductoMedianteSumas.csproj",
         "packagesPath": "C:\\Users\\malco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\malco\\Desktop\\Cs\\ProductoMedianteSumas\\obj\\",
+        "outputPath": "C:\\Users\\malco\\Desktop\\RJS\\ProductoMedianteSumas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\malco\\AppData\\Roaming\\NuGet\\NuGet.Config",
