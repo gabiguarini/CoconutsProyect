@@ -1,28 +1,30 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 
-class Formulario extends React.Component {
+function Formulario ({ onFormSubmit }) {
 
-    state = { nombre : ''};
+    const [nombre, setNombre] = useState('');
 
-    handleEnviar = (e) => {
+    const handleEnviar = (e) => {
         e.preventDefault();
-        if(this.state.nombre === '') return;
-        this.props.onFormSubmit(this.state.nombre);
-        this.setState({ nombre : '' });
+        if( nombre === '' ) return;
+        onFormSubmit(nombre);
+        setNombre("");
     }
+
+    useEffect (() => {
+        document.title = nombre.length;
+    })
     
-    render() {
-        return(
-            <form onSubmit={this.handleEnviar}>
-                <input 
-                    type="text"
-                    value={this.state.nombre}
-                    onChange={(e) => this.setState({nombre:e.target.value})}
-                />
-                <button>+</button>
-            </form>
-        );
-    }
+    return(
+        <form onSubmit={handleEnviar}>
+            <input 
+                type="text"
+                value={nombre}
+                onChange={(e) => setNombre(e.target.value)}
+            />
+            <button>+</button>
+        </form>
+    );
 };
 
 export default Formulario;
