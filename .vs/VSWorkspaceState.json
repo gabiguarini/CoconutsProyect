@@ -1,7 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\proyectofinde",
+    "\\MVCweb",
     "\\proyectofinde\\public",
     "\\proyectofinde\\src",
     "\\WebApi\\WebApplication1",
@@ -11,6 +11,6 @@
     "\\WebApi\\WebApplication1\\WebApplication1\\obj",
     "\\WebApi\\WebApplication1\\WebApplication1\\Properties"
   ],
-  "SelectedNode": "\\proyectofinde\\src\\App.js",
+  "SelectedNode": "\\ProyectosPractica.sln",
   "PreviewInSolutionExplorer": false
 }
